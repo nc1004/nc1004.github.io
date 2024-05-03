@@ -1,0 +1,240 @@
+body
+{
+margin-top:0px;
+background-color: #cfbba5;
+font-size:14px;
+font-family: Garamond, serif;
+color: #cfbba5;
+}
+
+h2
+{
+font-family:garamond;
+color: #c0ac98;
+text-shadow: 1.5px 0.3px 0 #120b26;
+text-emphasis-color: #120b26;
+text-indent: 2px;
+}
+
+p
+{
+font-family:garamond;
+font-size: 16px;
+color: #cfbba5;
+text-indent: 3px;
+word-spacing: 1px;
+}
+
+p1
+{
+	font-family: garamond;
+	color:#241846
+}
+
+#containter
+{
+background-color: #2d2b74;
+width:1024px;
+height:768px;
+margin-right:auto;
+margin-left:auto;
+text-indent: 4px;
+border-right: 0.1px solid #241846;
+}
+
+#banner
+{
+background-color: #cfbba5;
+width:1024px;
+height:30px;
+background-image:url("https://static.wixstatic.com/media/9e494f_8e9e6a7fe4914f0386fc72fa83025a56~mv2.jpg/v1/fill/w_348,h_44,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Mass%20Rock%20Against%20Racism%20from%201985%20flyer.jpg");
+background-size:contain;
+background-position: center;
+background-repeat:no-repeat;
+}
+
+#navigation
+{
+background-color: #241846;
+display: block;
+position:relative;
+top: 0px;
+text-align: center;
+width:1024px
+height:20px;
+padding-left: 0px;
+float:left;
+}
+
+#navigation a
+{
+background-color: #241846;
+width:204.5px;
+display:block;
+float:left;
+height:20px;
+text-align:center;
+line-height:20px;
+text-decoration:none;
+font-family: Garamond, serif;
+font-size:14px;
+color: #cfbba5;
+border-bottom: 0px #1a0000;
+}
+
+#navigation a:visited
+{
+background-color: #291c4e;
+width:204.5px;
+display:block;
+float:left;
+height:20px;
+text-align:center;
+line-height:20px;
+text-decoration:none;
+font-family: Garamond, serif;
+font-size:14px;
+color: #c9b39c;
+border-bottom: 0px #241846;
+}
+
+#navigation a:hover
+{
+background-color: #241846;
+text-align: center;
+font-family: Garamond, serif;
+font-size: 14px;
+line-height: 20px;
+width:204.5px;
+display:block;
+float:left;
+height:20px;
+color: #ae967b;
+border-bottom: 0px #4d1919;
+text-decoration: underline
+}
+
+#content
+{
+background-color: #413f5b;
+width:505px;
+height:560px;
+float:left;
+padding-right:3.9px;
+padding-left:7px;
+border-left: 0.1px solid #241846;
+border-right: 0.1px solid #241846;
+}
+
+#content2
+{
+background-color: #37354f;
+width:495px;
+height:560px;
+float:inline-start;
+padding-right:3.9px;
+padding-left:5px;
+border-left: 0.1px solid #241846;
+border-right: 0.1px solid #241846;
+}
+
+
+#footer
+{
+background-color: #241846;
+display:block;
+position:absolute;
+bottom:16px;
+float:left;
+width:1024px;
+height:20px;
+text-align:center;
+line-height:20px;
+text-decoration:none;
+padding-top:0px;
+margin-top:0px;
+padding-left:0px;
+}
+
+#footer a
+{
+	background-color: #241846;
+	display:block;
+	float:left;
+	width:170px;
+	height:20px;
+	text-align:center;
+	line-height:20px;
+	text-decoration:none;
+	font-family: Garamond, serif;
+	font-size:14px;
+	color: #cfbba5;
+	border-bottom: 0px rgb (22, 0, 0);
+
+}
+
+#footer a:visted
+{
+	background-color: #291c4e;
+	display:block;
+	text-align:center;
+	line-height:20px;
+	text-decoration:none;
+	font-family: Garamond, serif;
+	font-size:14px;
+	color: #c9b39c;
+	border-bottom: 0px #241846;
+
+}
+
+#footer a:hover
+{
+	background-color: #241846;
+	display:block;
+	text-align:center;
+	line-height:20px;
+	text-decoration:none;
+	font-family: Garamond, serif;
+	font-size:14x;
+	color: #ae967b;
+	border-bottom: 0px rgb(22, 0, 0);
+	text-decoration: underline
+}
+#copyright
+{
+	font-family: Garamond, serif;
+	font-size: 12px;
+	color: #241846;
+	display:block;
+	bottom: 0px;
+	float: left;
+	position: absolute;
+	text-indent: 2px;
+}
+
+<style>
+a:link
+{
+	color: #cfbba5;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:visited
+{
+	color: #c9b39c;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:hover
+{
+	color: #ae967b;
+	background-color: transparent;
+	text-decoration:underline;
+}
+a:active
+{
+	color:#c9b39c ;
+	background-color: transparent;
+	text-decoration: none;
+}
+</style>
